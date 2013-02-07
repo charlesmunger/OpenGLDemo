@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <resources> 
+    <string-array name="roboguice_modules">
+    <item>edu.ucsb.ece251.charlesmunger.opengldemo.modules.CustomRenderModule</item>
+<!--     <item>edu.ucsb.ece251.charlesmunger.opengldemo.modules.SquareModule</item> -->
+    <item>edu.ucsb.ece251.charlesmunger.opengldemo.modules.TexModule</item>
+<!--     <item>edu.ucsb.ece251.charlesmunger.opengldemo.modules.MyGLRenderModule</item> -->
+  </string-array>
+</resources>
